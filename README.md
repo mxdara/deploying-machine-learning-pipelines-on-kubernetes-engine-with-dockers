@@ -1,10 +1,16 @@
-# Deploy Machine Learning Pipeline on Google Kubernetes Engine
-#### To train and deploy machine learning pipelines in Python using PyCaret
+# Deploying My Machine Learning Pipeline on Google Kubernetes Engine
 
-## 👉 Learning Goals of this Tutorial
-- What is a Container, What is Docker, What is Kubernetes, and What is Google Kubernetes Engine?
-- Build a Docker image and upload it on Google Container Registry (GCR).
-- Create clusters and deploy machine learning pipeline with Flask app as a web service.
-- See a web app in action that uses a trained machine learning pipeline to predict on new data points in real-time.
+### To train and deploy my machine learning pipelines in Python using PyCaret
 
+## 👉 My Learning Goals for this Tutorial
 
+- Understand what a Container is, what Docker is, what Kubernetes is, and what Google Kubernetes Engine is.
+- Build a Docker image and upload it to Google Container Registry (GCR).
+- Create clusters and deploy my machine learning pipeline with a Flask app as a web service.
+- See my web app in action, using a trained machine learning pipeline to predict on new data points in real-time.
+
+## Kubernetes interface
+![kubernetesinterface](static/kubectl_shell.jpg)
+
+## Application Interface
+![Applicationinterface](static/predict%20app%20.jpg)
